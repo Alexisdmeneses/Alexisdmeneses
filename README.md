@@ -13,6 +13,8 @@ Country Manager & Data Science student at FGV EESP. Background in commercial lea
 | [Returns to schooling in Brazil](https://github.com/alexisdmeneses/mincer-education-returns-brazil) | Mincer equation · panel data 27 states · 2012–2025 · R²=0.94 | Python · statsmodels · linearmodels |
 | [BHP/VALE pairs trading](https://github.com/alexisdmeneses/bhp-vale-vecm-pairs-trading) | Cointegration · VECM · AR(2) spread · trading thresholds | R · vars · urca |
 | [Monte Carlo options pricing — PETR4](https://github.com/alexisdmeneses/monte-carlo-options-petr4) | GBM simulation · Longstaff-Schwartz · options valuation | Python · numpy · pandas |
+| [Markowitz efficient frontier — IBOV](https://github.com/alexisdmeneses/markowitz-ibov-efficient-frontier) | SLSQP optimization · IPCA deflation · Monte Carlo · Sharpe 0.89 vs IBOV 0.17 | Python · scipy · python-bcb |
+| [Soy put hedge — Black-Scholes & backtesting](https://github.com/alexisdmeneses/soy-put-hedge-black-scholes-backtesting) | European put pricing · train/test split · floor validation · scenario analysis | Python · scipy · yfinance |
 | [Student stress classifier](https://github.com/alexisdmeneses/student-stress-ml-classifier) | Random Forest · SHAP explainability · 843 obs. | Python · scikit-learn · SHAP |
 | [IPCA forecast — aggregated vs. disaggregated](https://github.com/alexisdmeneses/ipca-forecast-arima-focus) | ARIMA · group-level forecasting · comparison with BCB Focus | R · forecast |
 | [Refund analytics dashboard](https://github.com/alexisdmeneses/refund-dashboard-streamlit) | MTD comparison · KPI cards · deployed | Python · Streamlit |
