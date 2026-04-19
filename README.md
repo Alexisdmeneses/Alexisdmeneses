@@ -16,6 +16,7 @@ Country Manager & Data Science student at FGV EESP. Background in commercial lea
 | [Student stress classifier](https://github.com/alexisdmeneses/student-stress-ml-classifier) | Random Forest · SHAP explainability · 843 obs. | Python · scikit-learn · SHAP |
 | [IPCA forecast — aggregated vs. disaggregated](https://github.com/alexisdmeneses/ipca-forecast-arima-focus) | ARIMA · group-level forecasting · comparison with BCB Focus | R · forecast |
 | [Refund analytics dashboard](https://github.com/alexisdmeneses/refund-dashboard-streamlit) | MTD comparison · KPI cards · deployed | Python · Streamlit |
+| [Bike sharing demand forecast](https://github.com/alexisdmeneses/bike-sharing-demand-random-forest) | EDA · feature engineering · RF vs. linear baseline · RMSLE −56% | Python · scikit-learn |
 
 ---
 
